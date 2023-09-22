@@ -43,7 +43,7 @@ html {
   }
   main input[type="range"] {
     display: block;
-    margin-bottom: 20px;
+    margin-bottom: 200px;
     width: 200px;
   }
   section.settings {
